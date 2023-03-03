@@ -1,7 +1,3 @@
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
 # Frontend Mentor - Article preview component solution (English)
 
 This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -18,12 +14,13 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Mobile](./assets/screenshots/Mobile.png)
+![Desktop](./assets/screenshots/Desktop.png)
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [GitHub](https://github.com/gonzaloyacante/Article-preview-component)
+- Live Site URL: [Web](https://article-preview-component-gonzaloyacante.vercel.app/)
 
 ### Built with
 
@@ -45,6 +42,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ## Author
 
 - Website - [Gonzalo Yacante](https://gonzaloyacante.github.io/portfolio/)
+- Linkedin - [Gonzalo Yacante](https://www.linkedin.com/in/gonzaloyacante/)
 - Frontend Mentor - [@GonzaloYacante](https://www.frontendmentor.io/profile/GonzaloYacante)
 - Instagram - [@gonzaloyacante](https://www.instagram.com/gonzaloyacante/)
 
@@ -64,12 +62,13 @@ Esta es una solución al [desafío del componente de vista previa del artículo 
 
 ### Captura de pantalla
 
-![Captura de pantalla](./screenshot.png)
+![Celular](./assets/screenshots/Mobile.png)
+![Escritorio](./assets/screenshots/Desktop.png)
 
 ### Enlaces
 
-- URL de la solución: []()
-- URL del sitio en vivo: []()
+- URL de la solución: [GitHub](https://github.com/gonzaloyacante/Article-preview-component)
+- URL del sitio en vivo: [Web](https://article-preview-component-gonzaloyacante.vercel.app/)
 
 ### Construido con
 
@@ -91,5 +90,6 @@ Esta es una solución al [desafío del componente de vista previa del artículo 
 ## Autor
 
 - Sitio Web - [Gonzalo Yacante](https://gonzaloyacante.github.io/portfolio/)
+- Linkedin - [Gonzalo Yacante](https://www.linkedin.com/in/gonzaloyacante/)
 - Frontend Mentor - [@GonzaloYacante](https://www.frontendmentor.io/profile/GonzaloYacante)
 - Instagram - [@gonzaloyacante](https://www.instagram.com/gonzaloyacante/)
